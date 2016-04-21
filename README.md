@@ -9,6 +9,6 @@ Why Go and a JavaScript REPL?  Well Go is fun, compiles reasonable fast but is n
 
 1. [setting-things-up.md](setting-things-up.md)
 2. [making our workspace](making-our-workspace.md)
-3. [hello world](hello-world.md)
+3. [hello world](helloworld.md)
   + If you're having problems at this point please checkout [golang.org](http://golang.org) and one of the excellent Go tutorials
 4. [r1](r1.md) - making a very simple JavaScript [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)

@@ -25,10 +25,10 @@ When you run *helloworld* you should see the usually output. The text of *hellow
 ```
   package main
   
-  import fmt
+  import "fmt"
   
   func main() {
-    fmt.Println("Hello World")
+    fmt.Println("Hello World!")
   }
 ```
 
