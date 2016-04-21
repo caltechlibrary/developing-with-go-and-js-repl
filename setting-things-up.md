@@ -7,7 +7,7 @@ Git is a source code version system. You can find out more information about [gi
 
 Go is a programming language originally developed at Google but now a fully open source language developed by the Go community.  It is a compiled langage well suited to working with web resources and building web services. If you don't have Go installed already please take a look at the [golang.org](http://golang.org) website. You'll want Go 1.6.x for this tutorial.
 
-There are many text editors in the world.  While I don't recommend one editor over another the ones I commonly use today include vi, nano, and Atom. There is even a text editor for the terminal written in Go called [micro](https://github.com/zyedillia/micro) so in principle you could install Go then Micro and follow along with that.
+There are many text editors in the world.  While I don't recommend one editor over another the ones I commonly use today include vi, nano, and Atom. There is even a text editor for the terminal written in Go called [micro](https://github.com/zyedidia/micro) so in principle you could install Go then Micro and follow along with that.
 
 ## How I usually setup Go
 
@@ -45,10 +45,10 @@ If all has gone well you should have a working Go compiler and tools installed i
 
 ## Install additional Go packages
 
-If you want a simple text editor then you can install zyedillia's [micro](https://github.com/zyedillia/micro) using the `go get` command.
+If you want a simple text editor then you can install zyedidia's [micro](https://github.com/zyedidia/micro) using the `go get` command.
 
 ```
-  go get github.com/zyedillia/micro/...
+  go get github.com/zyedidia/micro/...
 ```
 
 Notice the trailing three dots. That's important to type. This tells the `go get` command to install not just the package files in your `$GOPATH/src` directory but also compile and install any commands found.
