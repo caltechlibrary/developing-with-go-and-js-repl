@@ -12,3 +12,18 @@ Why Go and a JavaScript REPL?  Well Go is fun, compiles reasonable fast but is n
 3. [hello world](helloworld.md)
   + If you're having problems at this point please checkout [golang.org](http://golang.org) and one of the excellent Go tutorials
 4. [r1](r1.md) - making a very simple JavaScript [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+
+
+
+## Reference material
+
++ [weather.gov REST API](http://graphical.weather.gov/xml/rest.php)
+    + [example xml](http://graphical.weather.gov/xml/DWMLgen/schema/latest_DWML.txt)
+    + [format](http://graphical.weather.gov/xml/mdl/XML/Design/MDL_XML_Design.htm)
++ [ostdlib](https://github.com/caltechlibrary/ostdlib)
+    + [otto](https://github.com/robertkrimen/otto) 
+    + [readline](https://github.com/chzyer/readline)
+    + [xlsx](https://github.com/tealeg/xlsx)
+    + [color](https://github.com/fatih/color)
++ [micro](https://github.com/zyedidia/micro)
+
