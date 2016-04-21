@@ -1,5 +1,5 @@
 
-# Developing with go and JavaScript REPL
+# Developing with go and a JavaScript REPL
 
 This is a demonstration of creating a simple middleware and JavaScript REPL based on [otto](https://github.com/robertkrimen/otto) JavaScript engine, [ostdlib](https://github.com/caltechlibrary/ostdlib) and the [weather.gov REST API](http://graphical.weather.gov/xml/rest.php).  It assumes you're either following along verbatum or you've gone through the Go language tutorials at [golang.org](http://golang.org).
 
