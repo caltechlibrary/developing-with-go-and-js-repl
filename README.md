@@ -4,4 +4,4 @@ This is a demonstration of creating a simple middleware and JavaScript REPL base
 
 1. [setting-things-up.md](setting-things-up.md)
 2. [making our workspace](making-our-workspace.md)
-3. ...
+3. [hello world](hello-world.md)
