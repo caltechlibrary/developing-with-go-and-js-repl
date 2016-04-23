@@ -1,9 +1,9 @@
 
 # Setting things up
 
-You will need at a minimum two pieces of software-- git (for fetching the current version of Go) and Go. We can build the rest from packages (e.g. a text editor, ostdlib).
+You will need at a minimum two pieces of software-- git (for fetching the current version of Go) and Go. We can build the rest from packages (e.g. a simple text editor, otto, ostdlib). You will need access to the internet to fetch the files.
 
-Git is a source code version system. You can find out more information about [git](https://git-scm.org) at the [git-scm.org](http://git-scm.org) website. 
+Git is a source code version system. You can find out more information about [git](https://git-scm.org) at the [git-scm.org](http://git-scm.org) website.
 
 Go is a programming language originally developed at Google but now a fully open source language developed by the Go community.  It is a compiled langage well suited to working with web resources and building web services. If you don't have Go installed already please take a look at the [golang.org](http://golang.org) website. You'll want Go 1.6.x for this tutorial.
 
@@ -40,7 +40,7 @@ I've been using Go a while and usually compile it from scratch. If you have your
   + `export PATH=$HOME/go/bin:$PATH`
 12. Set $GOPATH environment variable
   + `export GOPATH=$HOME`
-  
+
 If all has gone well you should have a working Go compiler and tools installed in `$HOME/go/bin`.  
 
 ## Install additional Go packages
